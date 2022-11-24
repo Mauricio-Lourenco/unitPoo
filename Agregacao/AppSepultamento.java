@@ -48,6 +48,5 @@ public class AppSepultamento {
 		} else {
 			System.out.println("Ocupado");
 		}
-
 	}
 }
